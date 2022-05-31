@@ -167,6 +167,6 @@ public class MainActivity extends AppCompatActivity {
         else if(slope>0.5)
             return "Getting better !";
         else
-            return "Poor Performance !";
+            return "VERY Poor Performance !";
     }
 }
